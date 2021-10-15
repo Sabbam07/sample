@@ -1,0 +1,104 @@
+﻿ body{
+	font-family:arial,sans-serif;
+	background-image:url("sunset-1373171_1920.jpg");
+	backgroun-repeat:norepeat;
+		color:yellow;
+	text-align:center;
+	margin:10px;
+	border-style:double;
+	border-width:2px;
+	border-color:black;
+}
+
+
+header{
+	
+	background-color:lightgreen;
+	color:black;
+	text-align:center;
+	overflow:hidden;
+	border-style:solid;
+	border-width:2px;
+	border-color:black;
+	padding:0px;
+	
+}
+
+
+header img{
+float:left;
+margin:10px;
+border-style:solid;
+border-width:2px;
+border-color:black;
+}
+
+
+
+
+
+nav ul{
+list-style-type:none;
+color:green;
+
+}
+
+nav li{
+float:left;
+
+}
+
+li a:link{
+padding:10px;
+text-decoration:none;
+display:block;
+color:green;
+}
+
+li a:hover{
+color:black;
+color:green;
+}
+
+div.bs{
+border-width:5px;
+border-style:solid;
+border-color:green,red;
+} 
+section{
+	
+	background-color:white;
+	color:black;
+	border-width=5px;
+	border-style:solid;
+	border-color:black;
+	padding:10px;
+	
+}
+
+mannaown contact from{
+ 	float:right;
+	margin:10px;
+	border-style:solid;
+	border-width:2px;
+	border-color:black;
+	
+}
+
+img{
+float:right;
+margin:10px;
+border-style:solid;
+border-width:2px;
+border-color:black;
+}
+
+footer{	background-color:black;
+	color:white;
+	border-width=5px;
+	border-style:double;
+	border-color:black;
+	padding=10px;
+}
+
+	
